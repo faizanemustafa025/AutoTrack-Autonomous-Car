@@ -1,7 +1,7 @@
 # AutoTrack: Intelligent Autonomous Car with Hybrid Navigation
 
 **AutoTrack** is a differential-drive robotic vehicle capable of seamless transitions between autonomous behaviors (Line Following, Obstacle Avoidance, Object Tracking) and manual Bluetooth control. Developed as a Complex Engineering Activity (CEA) for the Electrical Network Analysis course.
-Auto track Basic Version & Auto Track Advance Version included
+
 ![AutoTrack Front View](Front view.jpg)
 
 ## 🚀 Key Features
@@ -31,8 +31,10 @@ Auto track Basic Version & Auto Track Advance Version included
 | **Bluetooth** | D0 (RX), D1 (TX) | Remote Command |
 
 ## 📂 Project Structure
-* `AutoTrack_Main.ino`: The complete C++ firmware for the robot.
+* `main.ino`: The complete C++ firmware for the robot.
 * `Project_Report.pdf`: Detailed documentation including circuit diagrams, algorithms, and cost analysis.
+* `Basic.ino` : Auto track Basic Version.
+* `Advance.ino` Auto Track Enhanced Version.
 
 ## 👥 Team Members
 * **Faizan E Mustafa** (24F-6018)
